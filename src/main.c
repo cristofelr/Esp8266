@@ -1,1 +1,1 @@
-//Main ESP8266 Cod. Blink
+//Main ESP8266 Cod. MQTT temperature and humidity
